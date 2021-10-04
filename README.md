@@ -1,5 +1,6 @@
 # CLI-Quiz
- : A simple CLI based quiz made with JavaScript
+# Mark 1, level zero, neoGCamp
+A simple CLI based quiz made with JavaScript
  
- : Project for Mark 1 - NeoG Camp
+ 
 
